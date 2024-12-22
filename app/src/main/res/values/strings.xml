@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ModernSecurityFragment</string>
+
+    <string name="login">Login</string>
 </resources>

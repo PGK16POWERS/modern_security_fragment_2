@@ -4,5 +4,6 @@
         <!-- Customize your dark theme here. -->
         <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
         <item name="android:fontFamily">@font/poppins_regular</item>
+        <item name="android:statusBarColor">#29A1C6</item>
     </style>
 </resources>
