@@ -6,5 +6,29 @@
     android:background="@drawable/bg"
     tools:context=".Login">
 
+    <imageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/no_bg_app_logo"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/login"
+        android:textColor="@color/white"
+        android:textSize="20sp"
+        android:fontFamily="@font/poppins_medium"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            androdi:layout_height=""
+
+    </LinearLayout>
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>
