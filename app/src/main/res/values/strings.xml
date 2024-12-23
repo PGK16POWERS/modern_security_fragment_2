@@ -13,4 +13,6 @@
     <string name="mobile_number">Mobile number</string>
     <string name="already_sign_up">Already signed up?</string>
     <string name="login_instead">Login instead >>></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
