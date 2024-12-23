@@ -5,6 +5,7 @@
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
         <item name="android:fontFamily">@font/poppins_regular</item>
         <item name="android:statusBarColor">#29A1C6</item>
+        <item name="android:elegantTextHeight">true</item>
     </style>
 
     <style name="Theme.ModernSecurityFragment" parent="Base.Theme.ModernSecurityFragment" />

@@ -5,12 +5,14 @@
     <string name="email_address">Email address</string>
     <string name="enter_email_address">Enter email address</string>
     <string name="password">Password</string>
+    <string name="enter_password">Enter password</string>
     <string name="dont_have_an_account">Don\'t have an account?</string>
     <string name="create_an_account">Create an account >>></string>
     <string name="create_account">Create account</string>
     <string name="full_name">Full name</string>
     <string name="enter_full_name">Enter full name</string>
     <string name="mobile_number">Mobile number</string>
+    <string name="enter_mobile_number">Enter mobile number</string>
     <string name="already_sign_up">Already signed up?</string>
     <string name="login_instead">Login instead >>></string>
     <!-- TODO: Remove or change this placeholder text -->
